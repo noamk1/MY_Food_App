@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My_Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites_fragment">favorites fragment</string>
+    <string name="home_fragment">home fragment</string>
+    <string name="categories_fragment">categories fragment</string>
+    <string name="home">Home</string>
+    <string name="img_search">img_search</string>
+    <string name="what_would_you_like_to_eat">What would you like to eat?</string>
+    <string name="over_popular_items">Over popular items</string>
+    <string name="categories">Categories</string>
+    <string name="home_title">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="categories_title">Categories</string>
+    <string name="meal_detail">meal_detail</string>
+    <string name="like_button">like button</string>
+    <string name="category_beef">Category : Beef</string>
+    <string name="area_israel">Area : Israel</string>
+    <string name="instructions">- Instructions :</string>
+    <string name="youtube_button">youtube button</string>
+    <string name="category_name">category name</string>
+    <string name="img_category">img category</string>
+    <string name="test">test</string>
+    <string name="img_meal">img meal</string>
+    <string name="arrow_img">arrow img</string>
+    <string name="search_meals">Search Meals...</string>
+    <string name="menu">Menu</string>
+</resources>
